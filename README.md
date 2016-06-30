@@ -1,3 +1,3 @@
 # hello-world
 FavChatt's first repository and intro to GitHub
-Restaurant manager turned stay-at-home mom takes creative control from her experience, and uses it for her education, & future. 
+<br>Former restaurant manager, turned stay-at-home mom, harnesses her superpowers of practicality and creativity to launch herself onto a new career path. 
